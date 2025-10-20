@@ -15,7 +15,7 @@
 
 
 ### Неустойчивость таблицы MAC-адресов
-![alt text](lesson2/lesson2_sem2_Macadrtable.png)
+![alt text](img/lesson2/lesson2_sem2_Macadrtable.png)
 
 
 
@@ -30,7 +30,7 @@
 
 ## Формат BPDU
 
-![alt text](lesson2/lesson2_stp_formatBPDU.png)
+![alt text](img/lesson2/lesson2_stp_formatBPDU.png)
 
 1-4 
 
@@ -44,13 +44,13 @@
 
 
 в WireShark
-![alt text](lesson2/lesson2_WireSharkBPDU.png)
+![alt text](img/lesson2/lesson2_WireSharkBPDU.png)
 
 **!Важно понимать что все эти таймеры задаются на корневом коммутаторе**
 
 ### Что такое Bridge id
 
-![](lesson2/lesson2_BridgeID.png)
+![](img/lesson2/lesson2_BridgeID.png)
 
 
 

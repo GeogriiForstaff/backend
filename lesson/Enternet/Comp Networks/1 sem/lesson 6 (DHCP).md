@@ -38,6 +38,9 @@
 
 ![Pull_DHCPv4.png](png/lesson6/Pull_DHCPv4.png)
 
+(config-if): ipv6 dhcp relay destination {ipv6_address} {exit_intf} – настройка ipv6 ретрансляции на интерфейсе
+
+
 Команды проверки:
 
 **show run | section dhcp** -
